@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9jbh98Z057nHCR0YDKIPuLg4xlrGbFCqPvelGg9i861sXsAa4NbbHtI/PH6R1XFrYyrcNCF7gGM+G/lGjiJKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesse\\Documents\\Projects\\dotnet_core\\PartyInvites\\PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesse\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jesse\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
